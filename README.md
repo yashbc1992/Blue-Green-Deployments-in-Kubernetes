@@ -1,8 +1,8 @@
 Goal:
-Deploy two versions of a simple Nginx-based web app ("Blue" and "Green") using Kubernetes and switch traffic between them.
+Deployed two versions of a simple Nginx-based web app ("Blue" and "Green") using Kubernetes and switched traffic between them.
 
 🛠️ Steps:
-Created Blue & Green Versions:
+Created Blue & Green Deployment Versions:
 Each had its own index.html and Dockerfile with a welcome message (e.g., "Welcome to the BLUE version").
 
 Built Docker Images
